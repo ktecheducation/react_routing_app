@@ -1,0 +1,21 @@
+.main
+{
+    display:grid;
+    grid-template-rows: auto;
+    grid-template-columns: 250px auto ;
+}
+.chat
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    background-color: orange;
+    position: fixed;
+    right: 25px;
+    bottom: 50px;
+    color: white;
+    font-size: 40px;
+}

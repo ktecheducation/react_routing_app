@@ -1,0 +1,16 @@
+div.frameworkbase{
+    padding: 30px 50px 20px;
+}
+h2.framework_headding
+{
+    font-size: 30px;
+    color: white;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+}
+
+p.framwork_desc{
+    font-size: 18px;
+    color: rgb(226, 222, 222);
+    margin-bottom: 25px;
+}
